@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Tabe news</h1>
+    return <h1>Tabe news, foda</h1>
 }
 
 export default Home;
